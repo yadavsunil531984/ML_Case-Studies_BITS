@@ -1,0 +1,15 @@
+Age,Income,Student,Credit Rating,Buy Comp
+<=30,High,No,Fair,No
+<=30,High,No,Exc,No
+31-40,High,No,Fair,Yes
+>40,Med,No,Fair,Yes
+>40,Low,Yes,Fair,Yes
+>40,Low,Yes,Exc,No
+31-40,Low,Yes,Exc,Yes
+<=30,Med,No,Fair,No
+<=30,Low,Yes,Fair,Yes
+>40,Med,Yes,Fair,Yes
+<=30,Med,Yes,Exc,Yes
+31-40,Med,No,Exc,Yes
+31-40,High,Yes,Fair,Yes
+>40,Med,No,Exc,No
